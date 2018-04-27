@@ -1,0 +1,17 @@
+/*  Qué Visión Gráfica S.A.S                */
+/*  www.quevisiongrafica.com                */
+/*  humanstxt.org                           */
+/*  Colombia - Venezuela - Estados Unidos   */
+
+/*              TEAM                        */
+
+    - FrontEnd:           Over Quintero  - overquintero.a@gmail.com    - @overquintero - overquintero.com
+    - BackEnd:            Over Quintero  - overquintero.a@gmail.com    - @overquintero - overquintero.com
+    - Graphic Designer:   Over Quintero  - overquintero.a@gmail.com    - @overquintero - overquintero.com
+    - Project Manager:    Ybsul Freites  - ybsul@quevisiongrafica.com  - @ybsulf
+                          Alegna Freites - alegna@quevisiongrafica.com - @ALEGNA15
+    - QA:                 Camilo Alonso  - camilo@quevisiongrafica.com - @camilo_Alonso
+
+/*              SITE                        */
+
+    Standards:  HTML5, CSS3, JavaScript
